@@ -1,0 +1,18 @@
+@import 'content.css';
+
+html {
+  background-color: #e6e8e9;
+}
+
+body {
+  background-color: white;
+  margin: auto;
+  width: 210mm;
+}
+
+.clearer {
+  clear: both;
+}
+.floating-right {
+  float: right;
+}
