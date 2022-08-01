@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="re_installation_tips"
+               path="en/co_installation_tips_lzr_flatscan_3d_sw_reuse.html"/>
+   <appContext helpID="co_installation_tips_conditions"
+               path="en/co_installation_tips_conditions.html"/>
+   <appContext helpID="co_maintenance_tips" path="en/co_maintenance_tips.html"/>
+   <appContext helpID="co_safety_tips" path="en/co_safety_tips.html"/>
+   <appContext helpID="co_description" path="en/co_description.html"/>
+   <appContext helpID="untitled10" path="en/ta_installing_the_base_frame.html"/>
+   <appContext helpID="installing_the_sensor_onto_the_base_frame"
+               path="en/ta_installing_the_sensor_onto_the_base_frame.html"/>
+   <appContext helpID="re_technical_specifications"
+               path="en/re_technical_specifications.html"/>
+</map>
