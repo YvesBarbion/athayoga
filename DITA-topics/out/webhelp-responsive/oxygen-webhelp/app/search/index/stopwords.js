@@ -1,4 +1,4 @@
 define(function() {
 // Auto generated list of analyzer stop words that must be ignored by search.
-return ["but","be","with","such","then","for","no","will","not","are","and","their","if","this","on","into","a","or","there","in","that","they","was","is","it","an","the","as","at","these","by","to","of"];
+return ["die","de","dus","bij","hier","uit","geen","andere","hij","kon","ook","niets","worden","dit","hem","dan","ben","aan","omdat","het","me","veel","zij","heb","wat","zal","zonder","ik","van","naar","in","der","wezen","had","en","is","ze","kunnen","er","door","waren","doch","dat","zijn","ge","zo","ja","hun","ons","je","eens","hoe","tegen","alles","werd","mij","toch","maar","nog","nu","zelf","als","een","men","onder","wie","zich","heeft","of","kan","tot","wil","uw","voor","met","om","zou","op","al","mijn","toen","over","hebben","moet","geweest","was","haar","niet","deze","daar","wordt","altijd","te","reeds","doen","u","na","meer","want","iets","iemand"];
 });
