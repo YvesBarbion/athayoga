@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="yogyves" path="bio.html"/>
+   <appContext helpID="h_atha_yoga" path="h_atha_yoga.html"/>
+   <appContext helpID="locaties" path="lessen.html"/>
+   <appContext helpID="kine_consult__gent" path="kine_consult__gent.html"/>
+   <appContext helpID="studio_groene_vallei__gent"
+               path="studio_groene_vallei__gent.html"/>
+   <appContext helpID="contact" path="contact.html"/>
+</map>
