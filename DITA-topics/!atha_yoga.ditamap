@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="nl-nl">
+    <title>Atha yoga</title>
+    <topicref href="bio.dita">
+        <topicmeta>
+            <data name="wh-tile">
+                <data name="image" href="graphics/bandjes.jpg" format="jpg">
+                    <data name="attr-width" value="336 "/>
+                    <data name="attr-height" value="189"/>
+                </data>
+            </data>
+        </topicmeta>
+    </topicref>
+    <topicref href="h_atha_yoga.dita">
+        <topicmeta>
+            <data name="wh-tile">
+                <data name="image" href="graphics/bakasana_on_the_beach.jpg" format="jpg">
+                    <data name="attr-width" value="336"/>
+                    <data name="attr-height" value="189"/>
+                </data>
+            </data>
+        </topicmeta>
+    </topicref>
+    <topicref href="lessen.dita">
+        <topicmeta>
+            <data name="wh-tile">
+                <data name="image" href="graphics/lessen.jpg" format="jpg">
+                    <data name="attr-width" value="336"/>
+                    <data name="attr-height" value="189"/>
+                </data>
+            </data>
+        </topicmeta>
+        <topicref href="kine_consult__gent.dita"/>
+        <topicref href="studio_groene_vallei__gent.dita"/>
+    </topicref>
+    <topicref href="gl_sankalpa.dita" keys="sankalpa" processing-role="resource-only"/>
+    <topicref href="contact.dita"/>
+</map>

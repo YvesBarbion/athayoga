@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_jqd_mpp_r2b" xml:lang="nl-nl">
+    <title>Hatha yoga @ De Corridor</title>
+    <body>
+        <section id="section_ifh_dxm_s2b">
+            <p>Yves geeft vanaf 11 september 2019 op <xref href="#topic_jqd_mpp_r2b/section_k5h_r5k_52b" format="dita">woensdagavonden</xref> lessen hatha yoga in <xref href="http://www.decorridor.be" format="html" scope="external">De Corridor</xref> in Wetteren. </p>
+            <fig id="fig_nmv_dxm_s2b">
+                <image href="graphics/de_corridor.png" id="image_tml_2xm_s2b"/>
+            </fig>
+        </section>
+        <section id="section_k5h_r5k_52b">
+            <title>Welke woensdagavonden?</title>
+            <p>Yves geeft les op de volgende woensdagavonden, van 20 tot 21.15 u.:</p>
+            <table id="table_gnb_x5k_52b">
+                <tgroup cols="2">
+                    <colspec colnum="1" colname="col1" colsep="1" rowsep="1"/>
+                    <colspec colnum="2" colname="col2" colsep="1" rowsep="1"/>
+                    <thead>
+                        <row>
+                            <entry><b>Maand</b></entry>
+                            <entry><b>Dagen</b></entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><b>september</b></entry>
+                            <entry>11, 18 en 25</entry>
+                        </row>
+                        <row>
+                            <entry><b>oktober</b></entry>
+                            <entry>2, 9, 16* en 23*</entry>
+                        </row>
+                        <row>
+                            <entry><b>november</b></entry>
+                            <entry>6*, 13*, 20 en 27</entry>
+                        </row>
+                        <row>
+                            <entry><b>december</b></entry>
+                            <entry>4, 11 en 18</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <note type="notice">* Op de dagen die met een sterretje aangeduid zijn, wordt Yves vervangen door een gecertificeerd collega-yogaleraar.</note>
+        </section>
+        <section id="section_ikp_lzg_s2b">
+            <title>Nog twijfels of vragen?</title>
+            <p>Dan kan je het volgende doen:<ul id="ul_bmm_4zg_s2b">
+                    <li>Bel 0494 12 01 89, liefst buiten de kantooruren</li>
+                    <li>Stuur een mailtje naar <xref href="mailto:yves.barbion@gmail.com" format="html" scope="external">yves.barbion@gmail.com</xref></li>
+                </ul></p>
+        </section>
+    </body>
+</topic>

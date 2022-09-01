@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_xt1_ndz_dcb" xml:lang="nl-be">
+<title>Lessenrooster</title>
+<refbody>
+<section id="section_j2r_ndz_dcb">
+<p>
+<table id="table_cgm_wdz_dcb">
+<tgroup cols="4"><colspec colnum="1" colname="col1" colsep="1" rowsep="1"/><colspec colnum="2" colname="col2" colsep="1" rowsep="1"/><colspec colnum="3" colname="col3" colsep="1" rowsep="1"/><colspec colnum="4" colname="col4" colsep="1" rowsep="1"/>
+<thead>
+<row>
+<entry>Maand</entry>
+<entry>Dag</entry>
+<entry>Uur</entry>
+<entry>Yogales</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry morerows="9"><b outputclass="top">Januari</b></entry>
+<entry>woensdag 3 januari</entry>
+<entry>19 u. - 20.15 u.</entry>
+<entry><xref href="to_yang_hatha_yoga.dita#topic_avt_hp2_2cb">Energieke (yang) hatha yoga</xref> (<b>proefles!</b>)</entry>
+</row>
+<row>
+<entry>woensdag 3 januari</entry>
+<entry>20.30 u - 21.45 u.</entry>
+<entry><xref href="to_yin_yoga.dita#topic_dgq_dp2_2cb">Zachte (yin) hatha yoga</xref> (<b>proefles!</b>)</entry>
+</row>
+<row>
+<entry>woensdag 10 januari</entry>
+<entry>19 u. - 20.15 u.</entry>
+<entry>Energieke (yang) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 10 januari</entry>
+<entry>20.30 u - 21.45 u.</entry>
+<entry>Zachte (yin) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 17 januari</entry>
+<entry>19 u. - 20.15 u.</entry>
+<entry>Energieke (yang) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 17 januari</entry>
+<entry>20.30 u - 21.45 u.</entry>
+<entry>Zachte (yin) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 24 januari</entry>
+<entry>19 u. - 20.15 u.</entry>
+<entry>Energieke (yang) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 24 januari</entry>
+<entry>20.30 u - 21.45 u.</entry>
+<entry>Zachte (yin) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 31 januari</entry>
+<entry>19 u. - 20.15 u.</entry>
+<entry>Energieke (yang) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 31 januari</entry>
+<entry>20.30 u - 21.45 u.</entry>
+<entry>Zachte (yin) hatha yoga</entry>
+</row>
+<row>
+<entry morerows="6"><b outputclass="top">Februari</b></entry>
+<entry outputclass="no_class">woensdag 7 februari</entry>
+<entry outputclass="no_class"/>
+<entry outputclass="no_class">Geen les</entry>
+</row>
+<row>
+<entry>woensdag 14 februari</entry>
+<entry>19 u. - 20.15 u.</entry>
+<entry>Energieke (yang) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 14 februari</entry>
+<entry>20.30 u - 21.45 u.</entry>
+<entry>Zachte (yin) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 21 februari</entry>
+<entry>19 u. - 20.15 u.</entry>
+<entry>Energieke (yang) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 21 februari</entry>
+<entry>20.30 u - 21.45 u.</entry>
+<entry>Zachte (yin) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 28 februari</entry>
+<entry>19 u. - 20.15 u.</entry>
+<entry>Energieke (yang) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 28 februari</entry>
+<entry>20.30 u - 21.45 u.</entry>
+<entry>Zachte (yin) hatha yoga</entry>
+</row>
+<row>
+<entry morerows="6"><b outputclass="top">Maart</b></entry>
+<entry>woensdag 7 maart</entry>
+<entry>19 u. - 20.15 u.</entry>
+<entry>Energieke (yang) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 7 maart</entry>
+<entry>20.30 u - 21.45 u.</entry>
+<entry>Zachte (yin) hatha yoga</entry>
+</row>
+<row>
+<entry outputclass="no_class">woensdag 14 maart</entry>
+<entry outputclass="no_class"/>
+<entry outputclass="no_class">Geen les</entry>
+</row>
+<row>
+<entry>woensdag 21 maart</entry>
+<entry>19 u. - 20.15 u.</entry>
+<entry>Energieke (yang) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 21 maart</entry>
+<entry>20.30 u - 21.45 u.</entry>
+<entry>Zachte (yin) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 28 maart</entry>
+<entry>19 u. - 20.15 u.</entry>
+<entry>Energieke (yang) hatha yoga</entry>
+</row>
+<row>
+<entry>woensdag 28 maart</entry>
+<entry>20.30 u - 21.45 u.</entry>
+<entry>Zachte (yin) hatha yoga</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</section>
+</refbody>
+</reference>

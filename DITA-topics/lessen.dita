@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="locaties" xml:lang="nl">
+<title>Lessen</title>
+<body>
+<section id="section_ssq_mq1_bkb">
+<p>Ik geef les op de volgende dagen en plaatsen:</p>
+<table frame="all" rowsep="1" colsep="1" id="table_ebp_4q1_bkb">
+<tgroup cols="2" align="left">
+<colspec colname="c1" colnum="1" />
+<colspec colname="c2" colnum="2" />
+<thead>
+<row>
+<entry>Tijdstip</entry>
+<entry>Plaats</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Maandagavond</entry>
+<entry><xref href="kine_consult__gent.dita"></xref></entry>
+</row>
+<row>
+<entry>Zaterdagochtend</entry>
+<entry><xref href="studio_groene_vallei__gent.dita"></xref></entry>
+</row>
+<row>
+<entry>Zondagochtend</entry>
+<entry><xref href="https://www.nrgfitness.be/club/nrg-fitness-wetteren" format="html" scope="external">NRG Fitness Wetteren</xref></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</body>
+</topic>
